@@ -61,7 +61,7 @@ export default function Sidebar() {
                             height="24"
                             alt=""
                         />
-                        <span>Favorites</span>
+                        <span>Favourites</span>
                     </a>
                 </li>
                 <li>
